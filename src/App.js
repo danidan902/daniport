@@ -1081,7 +1081,7 @@ const Contact = () => {
 
     try {
       // Send form data to backend using Axios directly
-      const response = await axios.post('http://localhost:5000/api/contact', formData, {
+      const response = await axios.post('https://api-node-backend.onrender.com/api/contact', formData, {
         headers: {
           'Content-Type': 'application/json',
         }
