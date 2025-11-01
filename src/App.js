@@ -1176,13 +1176,13 @@ const Contact = () => {
                 {
                   icon: 'fas fa-envelope',
                   title: 'EMAIL',
-                  content: 'daniel@example.com',
+                  content: 'dand93575@gmail.com',
                   gradient: 'from-cyan-500 to-blue-500'
                 },
                 {
                   icon: 'fas fa-phone',
                   title: 'PHONE',
-                  content: '+251 912 345 678',
+                  content: '+251 921 225 887',
                   gradient: 'from-green-500 to-emerald-500'
                 },
                 {
