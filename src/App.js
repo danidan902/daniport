@@ -5,7 +5,7 @@ import axios from 'axios';
 import image1 from './images/tullu.PNG';
 import magic from './images/magic.png';
 import port from './images/port.png';
-import bg from './images/bg.png';
+import bg from './images/dani.png';
 import cvPdf from './assets/daniel-sheleme-cv.pdf';
 
 /* -------------------------------------------------------------------------- */
@@ -56,7 +56,7 @@ const SKILL_GROUPS = [
     title: 'Tools & Design',
     icon: 'tools',
     blurb: 'A workflow that keeps design and code in sync.',
-    skills: ['Git', 'GitHub', 'Figma', 'Photoshop', 'Webpack', 'Linux', 'VS Code'],
+    skills: ['Git', 'GitHub', 'Figma', 'Photoshop', 'Webpack', 'Linux', 'VS Code', 'Postman'],
   },
 ];
 
@@ -92,9 +92,9 @@ const PROJECTS = [
     description:
       'A modern, responsive portfolio website to showcase my work, skills, and contact information.',
     image: port,
-    tags: ['React', 'Tailwind CSS', 'Node.js', ],
-    liveLink: 'https://danidanportfolio.vercel.app/',
-    githubLink: 'https://github.com/danidan902',
+    tags: ['React', 'Tailwind CSS', 'Node.js', 'Animations'],
+    liveLink: '#',
+    githubLink: '#',
   },
 ];
 
